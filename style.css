@@ -4,8 +4,6 @@ body {
   justify-content: center;
   height: 100vh;
   align-items: center;
-  background-color: darkblue;
-  color: white;
   font-family: cursive;
 }
 
@@ -39,6 +37,6 @@ body {
 
 @media (max-width: 500px) {
   .container {
-    flex-direction: column;
+      flex-direction: column;
   }
 }
